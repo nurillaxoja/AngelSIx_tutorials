@@ -19,3 +19,5 @@ C:\Users\xoja\source\repos\AngelSix\les2_TreeView\obj\Debug\net6.0-windows\refin
 C:\Users\xoja\source\repos\AngelSix\les2_TreeView\obj\Debug\net6.0-windows\les2_TreeView.pdb
 C:\Users\xoja\source\repos\AngelSix\les2_TreeView\obj\Debug\net6.0-windows\les2_TreeView.genruntimeconfig.cache
 C:\Users\xoja\source\repos\AngelSix\les2_TreeView\obj\Debug\net6.0-windows\ref\les2_TreeView.dll
+C:\Users\xoja\source\repos\AngelSix\les2_TreeView\obj\Debug\net6.0-windows\les2_TreeView.csproj.Fody.CopyLocal.cache
+C:\Users\xoja\source\repos\AngelSix\les2_TreeView\obj\Debug\net6.0-windows\les2_TreeView.csproj.Fody.RuntimeCopyLocal.cache

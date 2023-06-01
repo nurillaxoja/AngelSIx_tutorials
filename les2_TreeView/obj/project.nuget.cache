@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IwySgpW593p8o12MMpNT9vCf21xegS3/63UFUj6ohFlxIcv+2rFsXXbKorjIFQGHF+YNGhPehGqJcRqRZh6vtg==",
+  "dgSpecHash": "Jg9PfjJaZ09yKucfPAN+AyiG75SDsGR/W0U6AP25CyTdZn9bGRasuJBHs6hg4StiX6OATuQdjgXaTLAdY64+Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xoja\\source\\repos\\AngelSIx_tutorials\\les2_TreeView\\les2_TreeView.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\xoja\\source\\repos\\AngelSix\\les2_TreeView\\les2_TreeView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xoja\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\xoja\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
